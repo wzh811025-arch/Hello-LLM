@@ -1,0 +1,8 @@
+win+r
+
+
+shutdown -s -t 3600
+
+
+shutdown -a
+
